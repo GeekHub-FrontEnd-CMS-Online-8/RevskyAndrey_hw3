@@ -73,3 +73,7 @@ th,td,table  {
 .table-second {
     width: 625px;
 }
+
+footer p {
+    display: none;
+}
