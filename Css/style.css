@@ -1,0 +1,75 @@
+
+h1 {
+    text-align: center;
+}
+
+
+.context {
+    width: 800px;
+    margin: 0 auto;
+}
+
+fieldset {
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+
+legend {
+    margin-left: 25px;
+}
+li {
+    list-style: none;
+    margin: 5px;
+}
+
+input , textarea{
+    border: 1px solid #797979;
+    border-radius: 5px;
+}
+
+#book, #position{
+    width: 150px;
+    border-radius: 5px;
+}
+
+.before-youn {
+    width: 275px;
+}
+
+.email {
+    margin-left: -45px;
+}
+
+.email label {
+    font-size: 16px;
+}
+
+form button {
+    margin-left: 25px;
+    border-radius: 5px;
+}
+
+
+.second {
+    padding-top: 200px;
+}
+
+table {
+    margin: 25px auto 0;
+
+}
+
+th,td,table  {
+    border: 1px solid #797979;
+}
+
+
+.table-first{
+    width: 1000px;
+
+}
+
+
+.table-second {
+    width: 625px;
+}
