@@ -32,6 +32,10 @@ input , textarea{
     border-radius: 5px;
 }
 
+.lbook {
+    font-size: 16px;
+}
+
 .before-youn {
     width: 275px;
 }
@@ -74,6 +78,4 @@ th,td,table  {
     width: 625px;
 }
 
-footer p {
-    display: none;
-}
+footer p {display: none;}
